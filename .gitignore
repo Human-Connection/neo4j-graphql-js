@@ -61,10 +61,6 @@ typings/
 
 .DS_Store
 
-dist/
 
 node-version
 neo4j-version
-
-test/tck/*
-!test/tck/.gitkeep
